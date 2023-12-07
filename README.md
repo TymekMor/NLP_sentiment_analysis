@@ -2,7 +2,7 @@
 Analysis of public sentiment towards war in Ukraine in years 2022-2023, based on twitter dataset-sentiment analysis. Using pre-trained and fine tuned NLP models.
 
 # main.py
-ten plik jest zbędny, zapomniałem go usunąć
+ten plik jest G, zapomniałem go usunąć
 
 # main_jup
 na tym na razie pracujemy, oczywiście. możecie robić i pushować własne, przyda się modularyzacja kodu, żeby łatwiej się połapać
