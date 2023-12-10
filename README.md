@@ -1,3 +1,5 @@
+Jak ktoś zaczyna pracę z tym kodem to proszę pobierzcie pullnijcie sobie tą wersję kodu, bo prawdopodobnie na tym będziemy dalej pisać
+
 # NLP_sentiment_analysis
 Analysis of public sentiment towards war in Ukraine in years 2022-2023, based on twitter dataset-sentiment analysis. Using pre-trained and fine tuned NLP models.
 
